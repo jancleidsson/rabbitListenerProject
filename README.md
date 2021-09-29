@@ -1,2 +1,2 @@
 # rabbitListenerProject
-Simple Spring Boot + RabbitMQ Message Publisher
+Simple Spring Boot + RabbitMQ Message Listener
